@@ -5,6 +5,9 @@ Curso preparatorio com aulas teoricas e praticas para alcançar a certificação
 Aqui terão algumas anotações e os desafios realizados durante o bootcamp.
 
 ### Desafios📚
-*1º Desafio:*  Arquitetura Instâncias EC2 na AWS ✔️
+✔️ *1º Desafio:*  Arquitetura Instâncias EC2 na AWS.
 
-* A proposta é criar um diagrama via Draw.io com o serviços EC2 e EBS da AWS (envio e recebimento de arquivos)
+![Texto Alternativo](Desafio1.drawio.png) 
+
+* A proposta foi criar um diagrama via Draw.io com o serviços EC2 e EBS da AWS (envio e recebimento de arquivos) conforme figura acima.
+
